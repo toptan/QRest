@@ -1,0 +1,8 @@
+# Host OS generated files
+.DS_Store
+
+# Qt Creator generated files
+*.txt.user
+
+# Build dirs
+build/
